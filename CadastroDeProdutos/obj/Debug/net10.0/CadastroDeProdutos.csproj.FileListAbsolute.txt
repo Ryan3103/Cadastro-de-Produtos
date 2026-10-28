@@ -1,0 +1,15 @@
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\bin\Debug\net10.0\CadastroDeProdutos.exe
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\bin\Debug\net10.0\CadastroDeProdutos.deps.json
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\bin\Debug\net10.0\CadastroDeProdutos.runtimeconfig.json
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\bin\Debug\net10.0\CadastroDeProdutos.dll
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\bin\Debug\net10.0\CadastroDeProdutos.pdb
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.sourcelink.json
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.dll
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\refint\CadastroDeProdutos.dll
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.pdb
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\CadastroDeProdutos.genruntimeconfig.cache
+C:\Users\Ryan\Documents\Cadastro-de-Produtos\CadastroDeProdutos\obj\Debug\net10.0\ref\CadastroDeProdutos.dll
